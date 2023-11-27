@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>pwo.lab09.Lab09</exec.mainClass>
+        <exec.mainClass>pwo.lab09.factory._run</exec.mainClass>
     </properties>
 </project>

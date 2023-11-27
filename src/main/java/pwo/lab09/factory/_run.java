@@ -18,7 +18,7 @@ public class _run {
 
  LocalDate today = LocalDate.now();
  DayOfWeek dayOfWeek =
- DayOfWeek.of(today.get(ChronoField.DAY_OF_WEEK));
+ SUNDAY;
 
  switch(dayOfWeek) {
  case MONDAY : factory = new Monday(); break;
